@@ -4,7 +4,7 @@ import { Modal, Button } from "react-bootstrap"
 import ReactTooltip from "react-tooltip"
 import "../App.css"
 import * as moment from 'moment'
-import timeObj from './Data/data.json'
+import timeObj from './data.json'
 
 let format="DD-MM-YYYY"
 
